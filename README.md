@@ -9,12 +9,8 @@
   <li>JavaScript</li>
 </ul>
 
-<h3>Used APIs</h4>
-<ul>
-  <li>Open Weather API</li>
- <li>Unsplash API</li>
 </ul>
-#### Steps to Use:
+## Steps to Use:
 ---
 
 - Download or clone the repository
