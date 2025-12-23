@@ -15,7 +15,7 @@
 
 - Download or clone the repository
 ```
-https://github.com/GitNmn854/Weather-App.git
+https://github.com/aditi1570/Weather-App
 ```
 - Go to the directory
 - Run the index.html file
